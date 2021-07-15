@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: AyePages™ 
+title: Instructor Profile™ 
 header:
   overlay_color: "#4d2e00"
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/5/5a/Books_HD_%288314929977%29.jpg
@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>This is an AyePages™ site<br>
+  <b>This is an Instructor Profile site<br>
   meant for academic purposes</b><br>
   <small>
   <a href="about/">More about AyePages™  </a>
