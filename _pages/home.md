@@ -30,7 +30,7 @@ feature_row:
     url: "/course2/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/image3.jpg
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/2/2b/DrosophilaKutikula.jpg
     alt: "Course3"
     title: "Course-3"
     excerpt: " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
