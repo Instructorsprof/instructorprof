@@ -1,5 +1,5 @@
 ---
-permalink: /course introd/
+permalink: /courseintro/
 title: Course Introduction
 ---
 
