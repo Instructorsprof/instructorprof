@@ -2,10 +2,12 @@ main:
   - title: AyeAI
     url: https://ayeai.xyz/
     
-  - title: Create a site
-    url: /example1/
-  - title: Make a blog
-    url: /example1/
+  - title: Course 1
+    url: /course1/
+  - title: Course 2
+    url: /course2/
+  - title: Course 3
+    url: /course3/
   - title: Support meetings
     url: /meetings/
   - title: Fork it
