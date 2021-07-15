@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Instructor"
   avatar : "/assets/images/ayetutor.png"
-  bio    : "Your tag ;ine"
+  bio    : "Your tag line"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
