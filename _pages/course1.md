@@ -3,4 +3,40 @@ permalink: /course1/
 title: Course1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu lacinia magna, non condimentum felis. Praesent ac nibh nec magna porttitor tincidunt. Sed bibendum purus magna, vel dictum enim commodo ac. Ut non metus mi. Fusce volutpat accumsan metus, volutpat pellentesque odio tincidunt quis. Sed pellentesque eleifend enim sit amet maximus. Cras auctor posuere ipsum sit amet lobortis. Duis mattis ullamcorper malesuada. Nunc ex nisi, efficitur id faucibus vel, finibus vel leo. Donec sodales turpis vel dolor interdum fringilla. Fusce efficitur varius tellus at gravida. Cras at venenatis felis, a pellentesqu
+# Course Name :
+
+
+
+
+## Course Introduction :
+
+
+
+
+## List of the topics :
+
+
+
+
+## Class Schedule and Timings :
+#### This section also includes links to the live or recorded class per topic
+
+
+
+
+## Assessment :
+
+
+
+
+## Assignments
+ ##### All the asssignments related to the course and the procedure to subitt their assignments will be posted here and updated time to time
+ 
+ 
+ 
+ 
+ ## Evaluation and Tests
+  ##### All the details and links for evaluation and tests will be updated here as per the timetable
+  
+  
+  
