@@ -16,14 +16,14 @@ excerpt:
   <a href="about/">More about AyePages™  </a>
   </small>
 feature_row:
-  - image_path: /assets/images/image1.jpg
+  - image_path:https://hindawiai.github.io/assets/images/hindawi-progg-sys.jpg
     alt: "Course1"
     title: "Course-1"
     excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur<br><br><br>"
     url: "/course1/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/image2.jpg
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/2/24/ATX_Computer_cases%2C_back_view.jpg
     alt: "course2"
     title: "Course-2"
     excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur<br><br><br>"
