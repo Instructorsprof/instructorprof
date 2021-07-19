@@ -13,18 +13,8 @@ main:
     url: /course3/
   - title: Support meetings
     url: /meetings/
-  - title: Fork it
-    url: /example1/
   - title: Update...
     url: /example2 
-  - title: You are live...
-    url: /example3/
- 
-
-  - title: Template
-    url: /template/
-  - title: Animation
-    url: /anim/
     
 
   - title: "Categories"
@@ -34,16 +24,8 @@ main:
   - title: "Posts"
     url: /posts/
     
-  - title: "Partners"
-    url: /partners/
-  - title: "Team"
-    url: /team/
-  - title: "Form"
-    url: /form/
   - title: "Video"
     url: /video/
-  - title: "data visualization"
-    url: /datavisualization/
     
     
   - title: "License"
