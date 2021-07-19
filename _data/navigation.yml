@@ -30,6 +30,9 @@ main:
     url: /terms/
   - title: "Privacy Policy"
     url: /privacy/
+  - title: "Credits and Attributions"
+    url: /credits/
+    
     
     
   - title: "FB Post"
