@@ -10,8 +10,7 @@ main:
     url: /course3/
   - title: Meetings
     url: /meetings/
-  - title: Update...
-    url: /example2 
+
     
 
   - title: "Categories"
